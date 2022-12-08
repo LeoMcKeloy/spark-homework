@@ -36,5 +36,6 @@ mvnw
 mvnw.cmd
 .mvn
 
-/project/*
+/project/project/*
+/project/target/*
 .bsp
